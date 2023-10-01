@@ -5,6 +5,8 @@
 [Here](https://www.youtube.com/watch?v=GrJP9FLV3FE&ab_channel=StatQuestwithJoshStarmer) is the link to the video
 
 This project was built along with the Youtube video on XGBoost in Python from start to finish.
+It used the Telco-Customer-Churn data obtained from Kaggle. It analyzes and tries to predict the rate at which customers are leaving or already left
+
 It covers the following with minor changes:
 * Loaded the Data From a File
 * Identified and dealt with missing data
